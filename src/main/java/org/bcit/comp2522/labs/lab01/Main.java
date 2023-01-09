@@ -2,6 +2,6 @@ package org.bcit.comp2522.labs.lab01;
 
 public class Main {
 	public static void main(String[] args) {
-		System.out.println("Hello world!");
+		System.out.println("Hello, fourth times the charm!");
 	}
 }
